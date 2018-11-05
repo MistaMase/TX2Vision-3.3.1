@@ -1,0 +1,5 @@
+# Ignore Bin File
+*/bin/*
+
+# VSCode workspace props
+.vscode/*
